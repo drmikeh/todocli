@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "task": "welcome task",
+      "id": 0,
+      "done": false
+    },
+    {
+      "task": "exercise",
+      "id": 2,
+      "done": true
+    },
+    {
+      "task": "buy batteries",
+      "id": 3,
+      "done": false
+    }
+  ]
+}
